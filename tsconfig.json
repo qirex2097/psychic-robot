@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "jsx": "react",
+    "strict": true,
+    "esModuleInterop": true,
+    "removeComments": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "exclude": [
+    "node_modules",
+    "webpack.config.js"
+  ]    
+}
